@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e20db936-bde6-4885-b936-6a362a41345f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lpnfKqv4F1vretTDPImZw4lm3U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Adaśko\Desktop\Gesture_Detection_CNN-master\Gesture_Detection_CNN-master\models" />
+      <recent name="C:\Users\Adaśko\Desktop\Gesture_Detection_CNN-master\Gesture_Detection_CNN-master\observers" />
+      <recent name="C:\Users\Adaśko\Desktop\Gesture_Detection_CNN-master\Gesture_Detection_CNN-master\cascades" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Adaśko\Desktop\Gesture_Detection_CNN-master\Gesture_Detection_CNN-master\cascades" />
+      <recent name="C:\Users\Adaśko\Desktop\Gesture_Detection_CNN-master\Gesture_Detection_CNN-master" />
+      <recent name="C:\Users\Adaśko\Desktop\Gesture_Detection_CNN-master\Gesture_Detection_CNN-master\test_images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="get_training_images" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Projekt-Gawlik-Adam" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_training_images.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hand_detection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Projekt-Gawlik-Adam" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hand_detection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Projekt-Gawlik-Adam" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Projekt-Gawlik-Adam" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Projekt-Gawlik-Adam" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.train_model" />
+        <item itemvalue="Python.test_model" />
+        <item itemvalue="Python.get_training_images" />
+        <item itemvalue="Python.hand_detection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e20db936-bde6-4885-b936-6a362a41345f" name="Default Changelist" comment="" />
+      <created>1608303001732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608303001732</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="660" y="277" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611729519522">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="528" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1611313401598" />
+    <state x="660" y="277" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/-1920.0.1536.834@0.0.1920.1050" timestamp="1611729519522" />
+    <state x="765" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1610731130404">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="241" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/-1920.0.1536.834@0.0.1920.1050" timestamp="1610731130404" />
+    <state x="-1574" y="196" key="FileChooserDialogImpl" timestamp="1617730732708">
+      <screen x="-1920" y="9" width="1536" height="834" />
+    </state>
+    <state x="433" y="235" key="FileChooserDialogImpl/-1920.9.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1609773848304" />
+    <state x="433" y="235" key="FileChooserDialogImpl/0.0.1920.1050/-1920.0.1536.834@0.0.1920.1050" timestamp="1611068191159" />
+    <state x="-1574" y="196" key="FileChooserDialogImpl/0.0.1920.1050/-1920.9.1536.834@-1920.9.1536.834" timestamp="1617730732708" />
+    <state width="1899" height="218" key="GridCell.Tab.0.bottom" timestamp="1612093240338">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1515" height="215" key="GridCell.Tab.0.bottom/-1920.9.1536.840/0.0.1920.1050@-1920.9.1536.840" timestamp="1609852104688" />
+    <state width="1899" height="218" key="GridCell.Tab.0.bottom/-1920.9.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1612093240338" />
+    <state width="1515" height="218" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1611490846572" />
+    <state width="1899" height="218" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1536.834@0.0.1920.1050" timestamp="1611732596762" />
+    <state width="1899" height="218" key="GridCell.Tab.0.center" timestamp="1612093240337">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1515" height="215" key="GridCell.Tab.0.center/-1920.9.1536.840/0.0.1920.1050@-1920.9.1536.840" timestamp="1609852104688" />
+    <state width="1899" height="218" key="GridCell.Tab.0.center/-1920.9.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1612093240337" />
+    <state width="1515" height="218" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1611490846572" />
+    <state width="1899" height="218" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1536.834@0.0.1920.1050" timestamp="1611732596762" />
+    <state width="1899" height="218" key="GridCell.Tab.0.left" timestamp="1612093240337">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1515" height="215" key="GridCell.Tab.0.left/-1920.9.1536.840/0.0.1920.1050@-1920.9.1536.840" timestamp="1609852104688" />
+    <state width="1899" height="218" key="GridCell.Tab.0.left/-1920.9.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1612093240337" />
+    <state width="1515" height="218" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1611490846572" />
+    <state width="1899" height="218" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1536.834@0.0.1920.1050" timestamp="1611732596762" />
+    <state width="1899" height="218" key="GridCell.Tab.0.right" timestamp="1612093240337">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1515" height="215" key="GridCell.Tab.0.right/-1920.9.1536.840/0.0.1920.1050@-1920.9.1536.840" timestamp="1609852104688" />
+    <state width="1899" height="218" key="GridCell.Tab.0.right/-1920.9.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1612093240337" />
+    <state width="1515" height="218" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1611490846572" />
+    <state width="1899" height="218" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1536.834@0.0.1920.1050" timestamp="1611732596762" />
+    <state width="1899" height="352" key="GridCell.Tab.1.bottom" timestamp="1610559012063">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1050/-1920.0.1536.834@0.0.1920.1050" timestamp="1610559012063" />
+    <state width="1899" height="352" key="GridCell.Tab.1.center" timestamp="1610559012063">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="352" key="GridCell.Tab.1.center/0.0.1920.1050/-1920.0.1536.834@0.0.1920.1050" timestamp="1610559012063" />
+    <state width="1899" height="352" key="GridCell.Tab.1.left" timestamp="1610559012063">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="352" key="GridCell.Tab.1.left/0.0.1920.1050/-1920.0.1536.834@0.0.1920.1050" timestamp="1610559012063" />
+    <state width="1899" height="352" key="GridCell.Tab.1.right" timestamp="1610559012063">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="352" key="GridCell.Tab.1.right/0.0.1920.1050/-1920.0.1536.834@0.0.1920.1050" timestamp="1610559012063" />
+    <state x="461" y="167" key="SettingsEditor" timestamp="1609773899795">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="167" key="SettingsEditor/-1920.9.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1609773899795" />
+    <state x="656" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1617730703174">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1395" y="288" key="com.intellij.ide.util.TipDialog/-1920.9.1536.840/0.0.1920.1050@-1920.9.1536.840" timestamp="1609850815378" />
+    <state x="656" y="349" key="com.intellij.ide.util.TipDialog/-1920.9.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1612093060658" />
+    <state x="525" y="277" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1611489931784" />
+    <state x="-1395" y="277" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/-1920.0.1536.834@-1920.0.1536.834" timestamp="1610471695385" />
+    <state x="656" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/-1920.0.1536.834@0.0.1920.1050" timestamp="1611728926862" />
+    <state x="656" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/-1920.9.1536.834@0.0.1920.1050" timestamp="1617730703174" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1610732968890">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1920.1050/-1920.0.1536.834@0.0.1920.1050" timestamp="1610732968890" />
+  </component>
+</project>
